@@ -1,0 +1,7 @@
+
+#base=js
+setup.js
+StyleSelectorImpl.js
+CuiToolbarBuilder.js
+ToolkitImpl.js
+FontStylePlugin.js
